@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600;700&display=swap');
+
+.name-price{
+    margin: 0 auto;
+    text-align: center;
+  }
+.gioi-thieu{
+    color: gray;
+    font-family: Arial;
+    text-align: center;
+    font-size: 5rem;
+}
+.noi-dung{
+    color:rgb(58, 58, 58);
+    margin: 5%;
+    font-family: Arial;
+    text-align: justify;
+    font-size: 3rem;
+    
+}
